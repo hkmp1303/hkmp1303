@@ -6,7 +6,8 @@ Hi, I'm Heather! I'm a passionate developer with a knack for creating efficient,
 - 🌱 I’m currently exploring AI and Data analytics.
 - 🤝 I’m looking to collaborate on everything!
 - 💬 Ask me about Java, Python and JavaScript.
-- 📫 How to reach me: hkmp1303@gmail.com
+- 📫 How to reach me: hkmp1303@gmail.com [hkmp1303@gmail.com](hkmp1303@gmail.com)
+
 - ⚡ Fun fact: I have trained my cats (yes, mulitple) to sit... 
 
 ## 📚 My Writing & Content
