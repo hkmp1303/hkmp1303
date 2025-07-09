@@ -11,7 +11,7 @@ Hi, I'm Heather! I'm a passionate developer with a knack for creating efficient,
 
 ## 📚 My Writing & Content
 
-I also enjoy sharing my knowledge through writing and blogging. Here are some of someelse's post:
+I also enjoy sharing my knowledge through writing and blogging. However! These are not my posts:
 
 - 📝 [Getting Started with Web Automation](https://medium.com/@silentBob/getting-started-with-web-automation) - An introduction to automating web tasks using Python and Selenium.
 - 📖 [Building Scalable Web Applications](https://medium.com/@silentBob/building-scalable-web-applications) - A guide to best practices for developing scalable and maintainable web applications.
