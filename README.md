@@ -20,7 +20,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 ## 📫 Connect with Me
 
 Feel free to reach out to me on  [LinkedIn](https://www.linkedin.com/in/heather-payne-malmo) or check out my [personal website](https://comingsoon.dev) (which is coming soon)!
-
+<!--
 ## 🛠️ Tools I Use
 
 <p align="left">
@@ -35,5 +35,5 @@ Feel free to reach out to me on  [LinkedIn](https://www.linkedin.com/in/heather-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </p>
-
+-->
 
